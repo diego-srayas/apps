@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417965861401",
+    "firebase_url": "https://evadiego-39bc5-default-rtdb.firebaseio.com",
+    "project_id": "evadiego-39bc5",
+    "storage_bucket": "evadiego-39bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417965861401:android:f15b5ac9cdb59e0eea5888",
+        "android_client_info": {
+          "package_name": "com.mx.utng.eva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417965861401-nsgleu6bmt9t99cpklcjaak9f5ne80c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mx.utng.eva",
+            "certificate_hash": "e804db6419bee634ce636a24a68d424431e13c53"
+          }
+        },
+        {
+          "client_id": "417965861401-qfl48v2lbbimgn9er6d4jbtn4ge3a5cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97JRJvpkipLKxVesb3A7P0fBMDUhCV3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417965861401-qfl48v2lbbimgn9er6d4jbtn4ge3a5cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
